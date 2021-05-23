@@ -15,4 +15,4 @@ client.on('message', message => {
         message.channel.send('https://www.patreon.com/MipoDevelopment')
     }
 });
-client.login('ODIwMjg4MjQ5MTA4NzU4NTQ5.YEy-9g.p_2BzZlvEeQZ71lt7UyhnH-xI-4');
+client.login('TOKEN');
